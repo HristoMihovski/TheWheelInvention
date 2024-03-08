@@ -1,0 +1,9 @@
+{
+    "name": "The Wheel",
+    "short_name": "The Wheel",
+    "icons": 
+    [
+        {"src":"/assets/whell.png", "sizes":"512x512","type":"image/png"}
+    ],
+    "display": "standalone"
+}
